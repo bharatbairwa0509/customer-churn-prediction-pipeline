@@ -1,0 +1,18 @@
+{
+    "model": "Random Forest",
+    "numTrees": 50,
+    "maxDepth": 8,
+    "seed": 42,
+    "accuracy": 0.7977695167286245,
+    "f1_score": 0.7860183884789689,
+    "weighted_precision": 0.7866641190797115,
+    "weighted_recall": 0.7977695167286245,
+    "churn_precision": 0.6844106463878327,
+    "churn_recall": 0.4878048780487805,
+    "confusion_matrix": {
+        "true_negative": 893,
+        "false_positive": 83,
+        "false_negative": 189,
+        "true_positive": 180
+    }
+}
