@@ -21,7 +21,7 @@ data/raw/
 data/processed/
 
 # Trained models
-models/
+/models/
 
 # Generated reports
 reports/*.html
